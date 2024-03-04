@@ -1,1 +1,4 @@
-# websdr_checker_discord_bot
+# Bor for your discord server that can check WEBSDR or webside statues.
+
+Setup:
+
